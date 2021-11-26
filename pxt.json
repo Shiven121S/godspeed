@@ -1,0 +1,30 @@
+{
+    "name": "GodSpeed",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Untitled": "github:riknoll/arcade-platformer#93339dc3ab1a30498ddbf22ce6b4ed973b33a4f2",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.1",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.7.22",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
